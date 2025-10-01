@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Tiago Sousa  
 
-<!--
-**TiagoSou1/TiagoSou1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Cientista de Dados apaixonado por transformar dados em **insights estratégicos** e soluções que fazem diferença.  
 
-Here are some ideas to get you started:
+💡 Minhas especialidades:  
+-  **Análise de Dados**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+-  **SQL & NoSQL**: Modelagem, consultas avançadas e otimização de bancos relacionais e não relacionais  
+-  **Machine Learning**: Modelagem preditiva, classificação, regressão e clustering  
+-  **Business Intelligence**: Power BI & Storytelling com dados  
+-  **Arquitetura de Dados**: Estruturação, pipelines, integração e governança  
+-  Familiaridade com conceitos de **Big Data & Cloud**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiago-sousa-2556272a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tiago%20Sousa-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+ *Explorando dados para transformar informações em decisões inteligentes.*  
