@@ -1,25 +1,44 @@
-# 👋 Olá, eu sou o Tiago Sousa  
+# Tiago Sousa
 
- Cientista de Dados apaixonado por transformar dados em **insights estratégicos** e soluções que fazem diferença.  
+People Analytics professional and Data Science student at FIAP, based in São Paulo, Brazil. I use Python, SQL, Power BI, and machine learning to turn operational and people data into clear decisions.
 
-💡 Minhas especialidades:  
--  **Análise de Dados**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
--  **SQL & NoSQL**: Modelagem, consultas avançadas e otimização de bancos relacionais e não relacionais  
--  **Machine Learning**: Modelagem preditiva, classificação, regressão e clustering  
--  **Business Intelligence**: Power BI & Storytelling com dados  
--  **Arquitetura de Dados**: Estruturação, pipelines, integração e governança  
--  Familiaridade com conceitos de **Big Data & Cloud**  
+I currently work as a People Analytics apprentice at Movecta, where I am developing the combination I value most: business context, analytical rigor, and practical communication.
 
----
+## Selected projects
 
-## 🔗 Vamos nos conectar?
+### [Retail Demand Forecasting](https://github.com/TiagoSou1/retail-demand-forecasting)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tiago-sousa-2556272a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tiago%20Sousa-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+Monthly demand forecasting with Prophet, chronological validation, naive baselines, uncertainty analysis, and an inventory-oriented business interpretation. Built from a public CC0 dataset as an academic group project at FIAP.
 
----
+`Python` · `Pandas` · `Prophet` · `Time Series` · `Data Analysis`
 
- *Explorando dados para transformar informações em decisões inteligentes.*  
+### [SMS Spam Detection](https://github.com/TiagoSou1/Detector-de-Spam)
+
+Reproducible text-classification pipeline using TF-IDF and Multinomial Naive Bayes, with a stratified holdout test, class-level metrics, and a confusion matrix.
+
+`Python` · `scikit-learn` · `NLP` · `Machine Learning`
+
+### [Investment Portfolio CRUD](https://github.com/TiagoSou1/CRUD-INVESTIMENTOS)
+
+Flask and Oracle application covering REST-style endpoints, relational modeling, parameterized SQL, triggers, a stored function, a stored procedure, and a browser interface.
+
+`Python` · `Flask` · `Oracle SQL` · `JavaScript`
+
+## Core toolkit
+
+- Analytics: Python, Pandas, NumPy, SQL, Power BI, Excel
+- Machine learning: scikit-learn, classification, regression, time-series validation
+- Data communication: dashboards, exploratory analysis, business-oriented storytelling
+- Engineering foundations: Git, GitHub, APIs, relational databases, Flask
+
+## Current focus
+
+- Applying analytics to People and operational decisions
+- Strengthening reproducible machine-learning workflows
+- Building a portfolio where every metric is traceable and every limitation is explicit
+
+## Contact
+
+- [Portfolio](https://portifolio-tiago-sousa.netlify.app)
+- [LinkedIn](https://www.linkedin.com/in/tiago-sousa-leite/)
+- [Email](mailto:tsousal177@gmail.com)
