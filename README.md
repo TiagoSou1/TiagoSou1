@@ -39,6 +39,6 @@ Flask and Oracle application covering REST-style endpoints, relational modeling,
 
 ## Contact
 
-- [Portfolio](https://portifolio-tiago-sousa.netlify.app)
+- [Portfolio](https://tiago-sousa-data.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/tiago-sousa-leite/)
 - [Email](mailto:tsousal177@gmail.com)
